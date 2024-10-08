@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66f63b7a-72c1-4b34-bb55-df7c033d292b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="66f63b7a-72c1-4b34-bb55-df7c033d292b" name="Changes" comment="Task:&#10;1. Created grass mask&#10;2. created burnt mask&#10;3. created triangle mask&#10;4. merged them">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -99,6 +98,19 @@
       <option name="presentableId" value="Default" />
       <updated>1728396016093</updated>
     </task>
+    <task id="LOCAL-00001" summary="Task:&#10;1. Created grass mask&#10;2. created burnt mask&#10;3. created triangle mask&#10;4. merged them">
+      <option name="closed" value="true" />
+      <created>1728399605715</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728399605715</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task:&#10;1. Created grass mask&#10;2. created burnt mask&#10;3. created triangle mask&#10;4. merged them" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task:&#10;1. Created grass mask&#10;2. created burnt mask&#10;3. created triangle mask&#10;4. merged them" />
   </component>
 </project>
